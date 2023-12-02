@@ -1,3 +1,11 @@
-.willkommen {
+.pé {
     text-align: center;
 }
+body {
+    background-image: linear-gradient(-110grad, rgb(0, 0, 0) , rgb(128, 0, 0) , yellow);
+}
+.bilder {
+    text-align: center;
+    width: 500px;
+}
+
